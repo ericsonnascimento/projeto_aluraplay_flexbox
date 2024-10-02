@@ -1,1 +1,47 @@
+/* CABEÇALHO */
 
+.cabecalho__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+}
+
+.cabecalho__pesquisar__item {
+    display: none;
+}
+
+/* SESSÃO SUPERIOR */
+
+.superior__secao__container {
+    display: flex;
+    align-items: center;
+    white-space: nowrap; /* Impede que o texto quebre para a próxima linha, mantendo-o em uma única linha */
+    overflow: scroll; /* Cria uma barra de rolagem no elemento */
+    gap: 15px;
+}
+
+/* RODAPÉ */
+
+.rodape__container {
+    display: flex;
+    /* flex-direction: column;
+    flex-wrap: wrap; */
+    flex-flow: column wrap;
+}
+
+@media (min-width: 834px) {
+
+    /* CABEÇALHO */
+    
+    .cabecalho__pesquisar__item {
+        display: block;
+    }
+
+    /* RODAPÉ */
+    
+    .rodape__container {
+        justify-content: space-between;
+    }
+}
