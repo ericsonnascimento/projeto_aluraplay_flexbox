@@ -7,12 +7,15 @@ Projeto de desenvolvimento de website voltado a apresentação de conteúdos em 
 * Funcionalidades e Demonstração do Site
 
 Página responsiva a desktop:
+
 ![1](https://github.com/user-attachments/assets/423e15cb-8979-46a4-ab67-ec662f267f20)
 
 Página responsiva a tablet:
+
 ![2](https://github.com/user-attachments/assets/43bdb012-8c00-45a1-b475-769a1b02b7eb)
 
 Página responsiva a mobile:
+
 ![3](https://github.com/user-attachments/assets/632a82cf-c435-4cf9-9d3a-ced72df9d74e)
 
 * Tecnologias utilizadas
