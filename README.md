@@ -18,6 +18,10 @@ Página responsiva a mobile:
 
 ![3](https://github.com/user-attachments/assets/632a82cf-c435-4cf9-9d3a-ced72df9d74e)
 
+* Link do projeto
+
+https://ericsonnascimento.github.io/projeto_aluraplay_flexbox/
+
 * Tecnologias utilizadas
 
   * HTML - HyperText Markup Language
